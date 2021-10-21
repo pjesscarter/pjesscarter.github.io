@@ -14,7 +14,7 @@ Responsibilities
 ======
 
 - Teach practical coding and data analysis skills in the R language to undergraduates in groups of 10-15, conducted over Zoom.
-- Manage a discussion forum for the entire class (approx. 150 students), responding daily to questions about course content and troubleshooting technical difficulties.
+- Manage a discussion forum for the entire class (approx. 100 students), responding daily to questions about course content and troubleshooting technical difficulties.
 - Run additional supplementary lectures on topics of interest (e.g. tidyverse packages, spatial data and maps).
 - Grade weekly problem sets and exams.
 
