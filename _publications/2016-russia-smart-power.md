@@ -12,4 +12,3 @@ citation: 'Perry Carter, Anne-Marie Brady & Evgeny Pavlov (2016) Russia’s “s
 
 [Access paper here](https://doi.org/10.1080/2154896X.2016.1257102)
 
-Recommended citation: Perry Carter, Anne-Marie Brady & Evgeny Pavlov (2016) Russia’s “smart power” foreign policy and Antarctica, The Polar Journal, 6:2, 259-272, DOI: 10.1080/2154896X.2016.1257102
