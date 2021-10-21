@@ -2,7 +2,7 @@
 title: "POL571 - Quantitative Analysis I"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2020-fall-teaching-1
+permalink: /teaching/2020-fall-teaching
 venue: "Princeton University, Department of Politics"
 date: 2020-09-01
 location: "Princeton, NJ"
