@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Russia’s “smart power” foreign policy and Antarctica"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2016-russia-smart-power
+excerpt:
+date: 2016
+venue: 'The Polar Journal'
+paperurl: 'https://doi.org/10.1080/2154896X.2016.1257102'
+citation: 'Perry Carter, Anne-Marie Brady & Evgeny Pavlov (2016) Russia’s “smart power” foreign policy and Antarctica, The Polar Journal, 6:2, 259-272, DOI: 10.1080/2154896X.2016.1257102'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Access paper here](https://doi.org/10.1080/2154896X.2016.1257102)
+
+Recommended citation: Perry Carter, Anne-Marie Brady & Evgeny Pavlov (2016) Russia’s “smart power” foreign policy and Antarctica, The Polar Journal, 6:2, 259-272, DOI: 10.1080/2154896X.2016.1257102
