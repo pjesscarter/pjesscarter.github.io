@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Perry Carter"
 title_separator          : "-"
 name                     : &name "Perry Carter"
-description              : &description "Ph.D. Candidate in Politics at Princeton University"
-url                      : https://pjesscarter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/"
-repository               : "pjesscarter/pjesscarter.github.io"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,8 +56,13 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-
-
+twitter:
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -75,10 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Perry Carter"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  location         : "Princeton, NJ"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -88,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pjesscarter"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-4684-6533"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -171,6 +179,12 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -289,7 +303,7 @@ tag_archive:
 #     tag: /tags/:name/
 
 
-# HTML Compression 
+# HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
