@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae](pjesscarter.github.io/files/Carter_Perry_CV.pdf)
+[Curriculum Vitae](https://pjesscarter.github.io/files/Carter_Perry_CV.pdf)
 
