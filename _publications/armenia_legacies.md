@@ -1,0 +1,8 @@
+---
+title: "My neighbor&apos;s loss: Social Transmission and the Legacies of Violence."
+collection: publications
+permalink: /publication/2023-armenia-legacies
+excerpt: A growing literature demonstrates the potential of violence that ocurred more than a lifetime ago to exert powerful influence on political behavior in the present. Yet, little is known about what conditions determine when legacies will manifest, or how they are transmitted in different contexts. This paper presents findings from a survey conducted in Southern Armenia among 1200 individuals in settlements with varying levels of exposure to past violence. I estimate the effect of past experiences of repression during the Armenian Genocide and Stalinist repressions on contemporary participation and political preferences. Contrary to other recent work, the analysis reveals that direct exposure to repression does not significantly influence political behavior. Instead, the legacy of violence in Armenia operates almost exclusively through the channel of social transmission. Moreover, the findings underscore the pivotal role of narrative storytelling in shaping these connections, providing a deeper understanding of the mechanisms through which historical memory and collective experiences impact contemporary political dynamics. The study contributes to the literature on the interplay of history, social networks, and political behavior in post-authoritarian societies.
+date: 2023-09-05
+citation: 'Carter, Perry. (2023). &quot;My neighbor&apos;s loss: Social Transmission and the Legacies of Violence.&quot; <i>Working Paper</i>.'
+---
