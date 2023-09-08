@@ -10,6 +10,8 @@ location: "Princeton, NJ"
 
 Teaching assistant for Rocío Titiunik. [Course Page](https://registrar.princeton.edu/course-offerings/course-details?term=1212&courseid=005436).
 
+[Teaching Evaluations](https://pjesscarter.github.io/files/571.pdf)
+
 Responsibilities
 ======
 
@@ -23,4 +25,3 @@ Course Content
 - Introduction to probability theory (set theory, distribution functions, random variables, probability inequalities).
 
 - Introduction to large-sample and asymptotic theory
-

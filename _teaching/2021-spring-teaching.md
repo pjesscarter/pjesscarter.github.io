@@ -10,6 +10,10 @@ location: "Princeton, NJ"
 
 Teaching assistant for Gleason Judd. [Course Page](https://registrar.princeton.edu/course-offerings/course-details?term=1214&courseid=013781).
 
+[Teaching Evaluations](https://pjesscarter.github.io/files/345.pdf)
+
+
+
 Responsibilities
 ======
 
@@ -24,4 +28,3 @@ Course Content
 - Introduction to probability theory and causal inference (randomized experiments, sampling theory, evaluating research design).
 
 - Comprehensive introduction to coding in R, with a focus on data manipulation, visualization, and analysis of randomized experiments.
-

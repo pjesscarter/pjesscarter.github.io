@@ -10,6 +10,8 @@ location: "Princeton, NJ"
 
 Teaching assistant for Grigore Pop-Eleches. [Course Page](https://registrar.princeton.edu/course-offerings/course-details?term=1222&courseid=005281).
 
+[Teaching Evaluations](https://pjesscarter.github.io/files/230.pdf)
+
 Responsibilities
 ======
 
@@ -23,6 +25,5 @@ Responsibilities
 Course Content
 ======
 
-- Brief introduction to a selection of foundational topics in the field of Comparative Politics, including regime types and democratization, political economy and development, 
+- Brief introduction to a selection of foundational topics in the field of Comparative Politics, including regime types and democratization, political economy and development,
 political behavior, institutions, and a case study of the politics of COVID-19.
-
