@@ -12,4 +12,4 @@ citation: 'Carter, Perry and Pop-Eleches, Grigore. (2023). &quot;Territorial Los
 
 [Access Paper Here](https://pjesscarter.github.io/files/irredentism_populism.pdf)
 
-[Additional Materials](https://pjesscarter.github.io/files/irredentism_populism.pdf)
+[Additional Materials](https://pjesscarter.github.io/files/irredentism_populism_appendix.pdf)
