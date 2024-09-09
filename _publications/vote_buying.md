@@ -12,7 +12,7 @@ the electorate, information can overcome the tyranny of the majority when groups
 are segregated or, given weak peer effects or an overall poor quality of information,
 candidate office motivations are low.
 date: 2024-07-03
-paperurl: 'https://josephjruggiero.com/pdfs/ssrp.pdf'
+paperurl: 'https://pjesscarter.github.io/files/socialstructure.pdf'
 citation: 'Carter, Perry and Ruggiero, Joseph. (2024). &quot;Social Structure and Redistributive Politics.&quot; <i>Working Paper</i>.'
 ---
 
