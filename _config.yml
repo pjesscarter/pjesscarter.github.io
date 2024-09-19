@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Perry Carter"
 title_separator          : "-"
 name                     : &name "Perry Carter"
-description              : &description "Ph.D. Candidate at Princeton University"
+description              : &description "Postdoctoral Researcher at NYU Abu Dhabi"
 url                      : https://pjesscarter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/pjesscarter.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Perry Carter"
   avatar           : "PerryCarter1018_0001.jpg"
-  bio              : "Ph.D. Candidate in Politics at Princeton University"
+  bio              : "Postdoctoral Researcher at NYU Abu Dhabi"
   location         : "Princeton, NJ"
   employer         :
   pubmed           : 
